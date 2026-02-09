@@ -36,6 +36,17 @@ Key Updates:
 HOW TO RUN PROMISE VERSION: 
 To run the updated version of the program, follow steps 1-3 from above and then use the following command in your terminal: 
         node promiseVersion.js
+
+
+
+PART 3: ASYNC/AWAIT EVOLUTION
+The final version of this project uses Async/Await syntax.
+- Chains eliminated, more liek standard list of tasks
+- try and catch blocks used for error handling
+
+HOW TO RUN ASYNC/AWAIT VERSION: 
+To run the most updated version, follow steps 1-3 from above and then use the following command in terminal: 
+        node asynchAwaitVersion.js
         
 
    
